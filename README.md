@@ -11,3 +11,5 @@ The data available is stored in this format
 - pickup request longitude
 - drop request latitude
 - drop request longitude
+
+A sample of a dataset has been uploaded due to size constraints. The actual data was ~1GB in size.
