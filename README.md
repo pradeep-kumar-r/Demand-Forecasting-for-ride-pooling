@@ -13,3 +13,6 @@ The data available is stored in this format
 - drop request longitude
 
 A sample of a dataset has been uploaded due to size constraints. The actual data was ~1GB in size.
+
+**Note:**
+The focus is not on the model performance, rather to show how to approach such a real-word problem through various ML algorithms.
